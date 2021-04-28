@@ -37,5 +37,7 @@ Changes to this Statement
 Anthony Berlin reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our application, and/or by updating any privacy information. Your continued use of the application and/or Services available after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
 
 Contact Information
+
 Anthony Berlin welcomes your questions or comments regarding this Statement of Privacy. If you believe that Anthony Berlin has not adhered to this Statement, please contact Anthony Berlin at: Deepdivehelp@gmail.com
+
 Effective as of April 28, 2021
