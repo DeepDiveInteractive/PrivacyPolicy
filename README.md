@@ -1,7 +1,7 @@
 
 Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to Vengeful Rites, and Anthony Berlin and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Anthony Berlin include . The Anthony Berlin application is a Virtual Reality Video Game application. By using the Anthony Berlin application, you consent to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to Vengeful Rites, and Deep Dive Interactive and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Deep Dive Interactive include . The Deep Dive Interactive application is a Virtual Reality Video Game application. By using the Deep Dive Interactive application, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
@@ -9,9 +9,9 @@ We do not collect any personal information about you unless you voluntarily prov
 
 Sharing Information with Third Parties
 
-Anthony Berlin does not sell, rent or lease its customer lists to third parties.
- Anthony Berlin may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Anthony Berlin, and they are required to maintain the confidentiality of your information.
-Anthony Berlin may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Anthony Berlin or the site; (b) protect and defend the rights or property of Anthony Berlin; and/or (c) act under exigent circumstances to protect the personal safety of users of Anthony Berlin, or the public.
+Deep Dive Interactive does not sell, rent or lease its customer lists to third parties.
+ Deep Dive Interactive may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Deep Dive Interactive, and they are required to maintain the confidentiality of your information.
+Deep Dive Interactive may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Deep Dive Interactive or the site; (b) protect and defend the rights or property of Deep Dive Interactive; and/or (c) act under exigent circumstances to protect the personal safety of users of Deep Dive Interactive, or the public.
 
 Right to Deletion
 
@@ -43,14 +43,14 @@ Subject to certain exceptions set out below, on receipt of a verifiable request 
  
 Children Under Thirteen
 
-Anthony Berlin does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this application.
+Deep Dive Interactive does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this application.
 
 Changes to this Statement
 
-Anthony Berlin reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our application, and/or by updating any privacy information. Your continued use of the application and/or Services available after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
+Deep Dive Interactive reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our application, and/or by updating any privacy information. Your continued use of the application and/or Services available after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
 
 Contact Information
 
-Anthony Berlin welcomes your questions or comments regarding this Statement of Privacy. If you believe that Anthony Berlin has not adhered to this Statement, please contact Anthony Berlin at: Deepdivehelp@gmail.com
+Deep Dive Interactive welcomes your questions or comments regarding this Statement of Privacy. If you believe that Deep Dive Interactive has not adhered to this Statement, please contact Deep Dive Interactive at: Deepdivehelp@gmail.com
 
 Effective as of April 28, 2021
