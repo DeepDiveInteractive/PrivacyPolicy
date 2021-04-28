@@ -18,16 +18,27 @@ Right to Deletion
 Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:
 
 •	Delete your personal information from our records; and
+
 •	Direct any service providers to delete your personal information from their records.
+
  Please note that we may not be able to comply with requests to delete your personal information if it is necessary to:
+ 
 •	Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;
+
 •	Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
+
 •	Debug to identify and repair errors that impair existing intended functionality;
+
 •	Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
+
 •	Comply with the California Electronic Communications Privacy Act;
+
 •	Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;
+
 •	Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;
+
 •	Comply with an existing legal obligation; or
+
 •	Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
  
 Children Under Thirteen
